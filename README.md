@@ -1,0 +1,1 @@
+this is a sample project to user react router in typescript.
